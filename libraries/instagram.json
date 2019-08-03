@@ -1,0 +1,130 @@
+[
+    {
+        "name": "python-instagram",
+        "official": true,
+        "language": "python",
+        "sources": [
+            "https://github.com/Instagram/python-instagram"
+        ]
+    },
+    {
+        "name": "instagram-ruby-gem",
+        "official": true,
+        "language": "ruby",
+        "sources": [
+            "https://github.com/Instagram/instagram-ruby-gem"
+        ]
+    },
+    {
+        "name": "instagram-api-lib",
+        "official": false,
+        "language": "javascript",
+        "sources": [
+            "https://github.com/eiriklv/instagram-api-lib"
+        ]
+    },
+    {
+        "name": "instagram4j",
+        "official": false,
+        "language": "java",
+        "sources": [
+            "https://github.com/brunocvcunha/instagram4j"
+        ]
+    },
+    {
+        "name": "jInstagram",
+        "official": false,
+        "language": "java",
+        "sources": [
+            "https://github.com/sachin-handiekar/jInstagram"
+        ]
+    },
+    {
+        "name": "elixtagram",
+        "official": false,
+        "language": "elixir",
+        "sources": [
+            "https://github.com/Zensavona/elixtagram"
+        ]
+    },
+    {
+        "name": "naughtygram",
+        "official": false,
+        "language": "elixir",
+        "sources": [
+            "https://github.com/Zensavona/naughtygram"
+        ]
+    },
+    {
+        "name": "insta_data",
+        "official": false,
+        "language": "elixir",
+        "sources": [
+            "https://github.com/badubizzle/insta_data"
+        ]
+    },
+    {
+        "name": "Clojure-Instagram-API",
+        "official": false,
+        "language": "clojure",
+        "sources": [
+            "https://github.com/Rydgel/Clojure-Instagram-API"
+        ]
+    },
+    {
+        "name": "clj-instagram",
+        "official": false,
+        "language": "clojure",
+        "sources": [
+            "https://github.com/immoh/clj-instagram"
+        ]
+    },
+    {
+        "name": "instagram-api",
+        "official": false,
+        "language": "clojure",
+        "sources": [
+            "https://github.com/danneu/instagram-api"
+        ]
+    },
+    {
+        "name": "goinsta",
+        "official": false,
+        "language": "go",
+        "sources": [
+            "https://github.com/ahmdrz/goinsta"
+        ]
+    },
+    {
+        "name": "go-instagram",
+        "official": false,
+        "language": "go",
+        "sources": [
+            "https://github.com/gedex/go-instagram"
+        ]
+    },
+    {
+        "name": "golang-instagram",
+        "official": false,
+        "language": "go",
+        "sources": [
+            "https://github.com/yanatan16/golang-instagram"
+        ]
+    },
+    {
+        "name": "Instagram-API-Python",
+        "official": false,
+        "language": "python",
+        "sources": [
+            "https://github.com/LevPasha/Instagram-API-python"
+        ]
+    },
+    {
+        "name": "instabot.py",
+        "official": false,
+        "language": "python",
+        "sources": [
+            "https://github.com/instabot-py/instabot.py"
+        ]
+    }
+]

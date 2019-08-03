@@ -1,0 +1,66 @@
+[
+    {
+        "name": "erlang-github",
+        "official": false,
+        "language": "erlang",
+        "sources": [
+            "https://github.com/inaka/erlang-github"
+        ]        
+    },
+    {
+        "name": "erlang-github-api",
+        "official": false,
+        "language": "erlang",
+        "sources": [
+            "https://github.com/onlyshk/erlang-github-api"
+        ]        
+    },
+    {
+        "name": "tentacat",
+        "official": false,
+        "language": "elixir",
+        "sources": [
+            "https://github.com/edgurgel/tentacat"
+        ]        
+    },
+    {
+        "name": "github_ecto",
+        "official": false,
+        "language": "elixir",
+        "sources": [
+            "https://github.com/wojtekmach/github_ecto"
+        ]        
+    },
+    {
+        "name": "github-clj",
+        "official": false,
+        "language": "clojure",
+        "sources": [
+            "https://github.com/wilkes/github-clj"
+        ]        
+    },
+    {
+        "name": "github-api",
+        "official": false,
+        "language": "java",
+        "sources": [
+            "https://github.com/kohsuke/github-api"
+        ]        
+    },
+    {
+        "name": "go-github",
+        "official": false,
+        "language": "go",
+        "sources": [
+            "https://github.com/google/go-github"
+        ]        
+    },
+    {
+        "name": "go-octokit",
+        "official": false,
+        "language": "go",
+        "sources": [
+            "https://github.com/octokit/go-octokit"
+        ]        
+    },
+]

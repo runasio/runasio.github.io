@@ -1,0 +1,26 @@
+[
+    {
+        "name": "kickscraper",
+        "official": false,
+        "language": "ruby",
+        "sources": [
+            "https://github.com/markolson/kickscraper"
+        ]
+    },
+    {
+        "name": "kickstarter",
+        "official": false,
+        "language": "ruby",
+        "sources": [
+            "https://github.com/redronin/kickstarter"
+        ]
+    },
+    {
+        "name": "PyKickStarter",
+        "official": false,
+        "language": "python",
+        "sources": [
+            "https://github.com/rabidlogic/PyKickstarter"
+        ]
+    },
+]

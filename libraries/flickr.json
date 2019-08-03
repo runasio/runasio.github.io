@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Flickr4Java",
+        "official": false,
+        "language": "java",
+        "sources": [
+            "https://github.com/boncey/Flickr4Java"
+        ]        
+    },
+    {
+        "name": "flickraw",
+        "official": false,
+        "language": "ruby",
+        "sources": [
+            "https://github.com/hanklords/flickraw"
+        ]        
+    },
+    {
+        "name": "python-flickr-api",
+        "official": false,
+        "language": "python",
+        "sources": [
+            "https://github.com/alexis-mignon/python-flickr-api"
+        ]        
+    },
+    {
+        "name": "flickrapi",
+        "official": false,
+        "language": "python",
+        "sources": [
+            "https://github.com/sybrenstuvel/flickrapi"
+        ]        
+    },
+    {
+        "name": "flickr",
+        "official": false,
+        "language": "go",
+        "sources": [
+            "https://github.com/masci/flickr"
+        ]        
+    },
+    {
+        "name": "go-flickr",
+        "official": false,
+        "language": "go",
+        "sources": [
+            "https://github.com/mncaudill/go-flickr"
+        ]        
+    },
+    {
+        "name": "flickcurl",
+        "official": false,
+        "language": "c",
+        "sources": [
+            "https://github.com/dajobe/flickcurl"
+        ]        
+    }
+]

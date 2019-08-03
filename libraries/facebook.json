@@ -1,0 +1,74 @@
+[
+    {
+        "name": "facebook.ex",
+        "official": false,
+        "language": "elixir",
+        "sources": [
+            "https://github.com/mweibel/facebook.ex"
+        ]
+    },
+    {
+        "name": "exfacebook",
+        "official": false,
+        "language": "elixir",
+        "sources": [
+            "https://github.com/oivoodoo/exfacebook"
+        ]
+    },
+    {
+        "name": "erlang_facebook",
+        "official": false,
+        "language": "erlang",
+        "sources": [
+            "https://github.com/ngerakines/erlang_facebook"
+        ]
+    },
+    {
+        "name": "facebook",
+        "official": false,
+        "language": "go",
+        "sources": [
+            "https://github.com/huandu/facebook"
+        ]
+    },
+    {
+        "name": "fbapi",
+        "official": false,
+        "language": "go",
+        "sources": [
+            "https://github.com/facebookarchive/fbapi"
+        ]
+    },
+    {
+        "name": "facebook-go-sdk",
+        "official": false,
+        "language": "go",
+        "sources": [
+            "https://github.com/madebyais/facebook-go-sdk"
+        ]
+    },
+    {
+        "name": "",
+        "official": false,
+        "language": "clojure",
+        "sources": [
+            "https://github.com/maxweber/clj-facebook-graph"
+        ]
+    },
+    {
+        "name": "facebook4j",
+        "official": false,
+        "language": "java",
+        "sources": [
+            "https://github.com/roundrop/facebook4j"
+        ]        
+    },
+    {
+        "name": "restfb",
+        "official": false,
+        "language": "java",
+        "sources": [
+            "https://github.com/restfb/restfb"
+        ]        
+    }
+]

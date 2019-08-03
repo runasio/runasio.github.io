@@ -1,0 +1,8 @@
+[
+    {
+  "name": "pinterest-api",
+  "official": false,
+  "language": "ruby",
+  "sources": [ "https://github.com/realadeel/pinterest-api" ],
+}
+]
