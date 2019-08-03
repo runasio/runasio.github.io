@@ -1,0 +1,26 @@
+[
+    {
+        "name": "pysnap",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/mpolden/pysnap" ],
+    },
+    {
+        "name": "snapchatAPI",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/youngesbill/snapchatAPI" ],
+    },
+    {
+        "name": "snapcat",
+        "official": false,
+        "language": "ruby",
+        "sources": [ "https://github.com/nneal/snapcat" ],
+    },
+    {
+        "name": "JavaSnap",
+        "official": false,
+        "language": "java",
+        "sources": [ "https://github.com/hatboysam/JavaSnap" ],
+    }
+]

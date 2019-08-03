@@ -1,0 +1,20 @@
+[
+    {
+        "name": "go-twitch",
+        "official": false,
+        "language": "go",
+        "sources": [ "https://github.com/mrshankly/go-twitch" ],
+    },
+    {
+        "name": "twitch",
+        "official": false,
+        "language": "elixir",
+        "sources": [ "https://github.com/guitsaru/twitch" ],
+    },
+    {
+        "name": "python-twitch-client",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/tsifrer/python-twitch-client" ],
+    }
+]

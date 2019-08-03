@@ -1,0 +1,26 @@
+[
+    {
+        "name": "google-plus-java-api",
+        "official": false,
+        "language": "java",
+        "sources": [
+            "https://github.com/Glamdring/google-plus-java-api"
+        ]
+    },
+    {
+        "name": "GooglePlus",
+        "official": false,
+        "language": "haskell",
+        "sources": [
+            "https://github.com/MichaelXavier/GooglePlus"
+        ]
+    },
+    {
+        "name": "plus",
+        "official": false,
+        "language": "ruby",
+        "sources": [
+            "https://github.com/cannikin/plus"
+        ]
+    }
+]

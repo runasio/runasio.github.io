@@ -1,0 +1,100 @@
+[
+    {
+        "name": "discord.py",
+        "official": false,
+        "language": "python",
+        "links": [],
+        "sources": [
+            "https://github.com/Rapptz/discord.py"
+        ],
+        "contributor": [""],
+        "version": "",
+        "creation-date": "",
+        "last-release": "",
+        "notes": ""
+    },
+    {
+        "name": "discordrb",
+        "official": false,
+        "language": "python",
+        "links": [],
+        "sources": [
+            "https://github.com/meew0/discordrb"
+        ],
+        "contributor": [""],
+        "version": "",
+        "creation-date": "",
+        "last-release": "",
+        "notes": ""
+    },
+    {
+        "name": "discord4j",
+        "official": false,
+        "language": "python",
+        "links": [],
+        "sources": [
+            "https://github.com/meew0/discordrb"
+        ],
+        "contributor": [""],
+        "version": "",
+        "creation-date": "",
+        "last-release": "",
+        "notes": ""
+    },
+    {
+        "name": "clj-discord",
+        "official": false,
+        "language": "clojure",
+        "links": [],
+        "sources": [
+            "https://github.com/yotsov/clj-discord"
+        ],
+        "contributor": [""],
+        "version": "",
+        "creation-date": "",
+        "last-release": "",
+        "notes": ""
+    },
+    {
+        "name": "discljord",
+        "official": false,
+        "language": "clojure",
+        "links": [],
+        "sources": [
+            "https://github.com/IGJoshua/discljord"
+        ],
+        "contributor": [""],
+        "version": "",
+        "creation-date": "",
+        "last-release": "",
+        "notes": ""
+    },
+    {
+        "name": "discordex",
+        "official": false,
+        "language": "elixir",
+        "links": [],
+        "sources": [
+            "https://github.com/vic/discordex"
+        ],
+        "contributor": [""],
+        "version": "",
+        "creation-date": "",
+        "last-release": "",
+        "notes": ""
+    },
+    {
+        "name": "harmony",
+        "official": false,
+        "language": "go",
+        "links": [],
+        "sources": [
+            "https://github.com/skwair/harmony"
+        ],
+        "contributor": [""],
+        "version": "",
+        "creation-date": "",
+        "last-release": "",
+        "notes": ""
+    }
+]

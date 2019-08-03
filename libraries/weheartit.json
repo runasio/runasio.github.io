@@ -1,0 +1,8 @@
+[
+    {
+        "name": "weheartit-api",
+        "official": false,
+        "language": "documentation",
+        "sources": [ "https://github.com/jordan-wright/weheartit-api" ],
+    }
+]

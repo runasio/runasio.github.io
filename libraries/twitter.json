@@ -1,0 +1,116 @@
+[
+    {
+        "name": "hbc",
+        "official": true,
+        "language": "java",
+        "sources": [ "https://www.github.com/twitter/hbc" ],
+    },
+    {
+        "name": "asptwitter",
+        "official": false,
+        "language": "asp",
+        "sources": [ "http://www.timacheson.com/Blog/2013/jun/asptwitter" ],
+    },
+    {
+        "name": "twitcurl",
+        "official": false,
+        "language": "c++",
+        "sources": [ "https://code.google.com/p/twitcurl/" ],
+    },
+    {
+        "name": "twitter-api",
+        "official": false,
+        "language": "clojure",
+        "sources": [ "https://github.com/adamwynne/twitter-api" ],
+    },
+    {
+        "name": "twittergo",
+        "official": false,
+        "language": "go",
+        "sources": [ "https://github.com/kurrik/twittergo" ],
+    },
+    {
+        "name": "go-twitter",
+        "official": false,
+        "language": "go",
+        "sources": [ "https://github.com/dghubble/go-twitter" ],
+    },
+    {
+        "name": "anaconda",
+        "official": false,
+        "language": "go",
+        "sources": [ "https://github.com/ChimeraCoder/anaconda" ],
+    },
+    {
+        "name": "twitter4j",
+        "official": false,
+        "language": "java",
+        "sources": [ "http://twitter4j.org/" ],
+    },
+    {
+        "name": "python-twitter",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/bear/python-twitter" ],
+    },
+    {
+        "name": "tweepy",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/tweepy/tweepy" ],
+    },
+    {
+        "name": "TweetPony",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/Mezgrman/TweetPony" ],
+    },
+    {
+        "name": "Python Twitter Tools",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/sixohsix/twitter" ],
+    },
+    {
+        "name": "twitter-gobject",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/tchx84/twitter-gobject" ],
+    },
+    {
+        "name": "twittersearch",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/ckoepp/TwitterSearch" ],
+    },
+    {
+        "name": "twython",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/ryanmcgrath/twython" ],
+    },
+    {
+        "name": "TwitterAPI",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/geduldig/TwitterAPI" ],
+    },
+    {
+        "name": "Birdy",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/inueni/birdy" ],
+    },
+    {
+        "name": "twerl",
+        "official": false,
+        "language": "erlang",
+        "sources": [ "https://github.com/lucaspiller/twerl" ],
+    },
+    {
+        "name": "itweet",
+        "official": false,
+        "language": "erlang",
+        "sources": [ "https://github.com/inaka/itweet" ],
+    }
+]

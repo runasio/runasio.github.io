@@ -1,0 +1,56 @@
+[
+    {
+        "name": "clojure-linkedin",
+        "official": false,
+        "language": "clojure",
+        "sources": [ "https://github.com/kikofernandez/clojure-linkedin" ],
+    },
+    {
+        "name": "throng",
+        "official": false,
+        "language": "clojure",
+        "sources": [ "https://github.com/dacamo76/throng" ],
+    },
+    {
+        "name": "linkedin-j",
+        "official": false,
+        "language": "java",
+        "sources": [ "https://github.com/nabeelmukhtar/linkedin-j" ],
+    },
+    {
+        "name": "python-linkedin",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/ozgur/python-linkedin" ],
+    },
+    {
+        "name": "linkedin",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/michaelhelmick/linkedin" ],
+    },
+    {
+        "name": "linkedin-api",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/tomquirk/linkedin-api" ],
+    },
+    {
+        "name": "ScrapedIn",
+        "official": false,
+        "language": "python",
+        "sources": [ "https://github.com/dchrastil/ScrapedIn" ],
+    },
+    {
+        "name": "golang-linkedin",
+        "official": false,
+        "language": "go",
+        "sources": [ "https://github.com/drgould/golang-linkedin" ],
+    },
+    {
+        "name": "linkedin-go",
+        "official": false,
+        "language": "go",
+        "sources": [ "https://github.com/fionita/linkedin-go" ],
+    }
+]

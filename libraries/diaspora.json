@@ -1,0 +1,44 @@
+[
+    {
+        "name": "diaspora-api",
+        "official": false,
+        "language": "ruby",
+        "links": [],
+        "sources": [
+            "https://github.com/cmrd-senya/diaspora-api"
+        ],
+        "contributor": [""],
+        "version": "",
+        "creation-date": "",
+        "last-release": "",
+        "notes": ""
+    },
+    {
+        "name": "diaspora-java-api",
+        "official": false,
+        "language": "java",
+        "links": [],
+        "sources": [
+            "https://github.com/SuperTux88/diaspora-java-api"
+        ],
+        "contributor": [""],
+        "version": "",
+        "creation-date": "",
+        "last-release": "",
+        "notes": ""
+    },
+    {
+        "name": "diclipy",
+        "official": false,
+        "language": "python",
+        "links": [],
+        "sources": [
+            "https://github.com/Flashwalker/diclipy"
+        ],
+        "contributor": [""],
+        "version": "",
+        "creation-date": "",
+        "last-release": "",
+        "notes": ""
+    }
+]
