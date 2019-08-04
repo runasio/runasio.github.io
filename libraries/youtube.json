@@ -3,6 +3,6 @@
         "name": "api-samples",
         "official": true,
         "language": "java",
-        "sources": [ "https://github.com/youtube/api-samples" ],
+        "sources": [ "https://github.com/youtube/api-samples" ]
     }
 ]

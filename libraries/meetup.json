@@ -3,6 +3,6 @@
         "name": "meetup_client",
         "official": false,
         "language": "ruby",
-        "sources": [ "https://github.com/cranieri/meetup_client" ],
+        "sources": [ "https://github.com/cranieri/meetup_client" ]
     }
 ]
