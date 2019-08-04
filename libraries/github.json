@@ -62,5 +62,5 @@
         "sources": [
             "https://github.com/octokit/go-octokit"
         ]        
-    },
+    }
 ]

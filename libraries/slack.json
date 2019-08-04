@@ -3,48 +3,48 @@
         "name": "clj-slack",
         "official": false,
         "language": "clojure",
-        "sources": [ "https://github.com/julienXX/clj-slack" ],
+        "sources": [ "https://github.com/julienXX/clj-slack" ]
     },
     {
         "name": "slack-rtm",
         "official": false,
         "language": "clojure",
-        "sources": [ "https://github.com/casidiablo/slack-rtm" ],
+        "sources": [ "https://github.com/casidiablo/slack-rtm" ]
     },
     {
         "name": "slack-ruby-client",
         "official": false,
         "language": "ruby",
-        "sources": [ "https://github.com/slack-ruby/slack-ruby-client" ],
+        "sources": [ "https://github.com/slack-ruby/slack-ruby-client" ]
     },
     {
         "name": "slack-ruby-gem",
         "official": false,
         "language": "ruby",
-        "sources": [ "https://github.com/aki017/slack-ruby-gem" ],
+        "sources": [ "https://github.com/aki017/slack-ruby-gem" ]
     },
     {
         "name": "slack",
         "official": false,
         "language": "go",
-        "sources": [ "https://github.com/nlopes/slack" ],
+        "sources": [ "https://github.com/nlopes/slack" ]
     },
     {
         "name": "slack",
         "official": false,
         "language": "go",
-        "sources": [ "https://github.com/bluele/slack" ],
+        "sources": [ "https://github.com/bluele/slack" ]
     },
     {
         "name": "slackex",
         "official": false,
         "language": "elixir",
-        "sources": [ "https://github.com/davidstump/slackex" ],
+        "sources": [ "https://github.com/davidstump/slackex" ]
     },
     {
         "name": "Elixir-Slack",
         "official": false,
         "language": "elixir",
-        "sources": [ "https://github.com/BlakeWilliams/Elixir-Slack" ],
+        "sources": [ "https://github.com/BlakeWilliams/Elixir-Slack" ]
     }
 ]

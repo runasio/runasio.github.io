@@ -3,6 +3,6 @@
         "name": "patreon-ruby",
         "official": false,
         "language": "ruby",
-        "sources": [ "https://github.com/Patreon/patreon-ruby" ],
+        "sources": [ "https://github.com/Patreon/patreon-ruby" ]
     }
 ]

@@ -3,6 +3,6 @@
         "name": "vk_api",
         "official": false,
         "language": "python",
-        "sources": [ "https://github.com/python273/vk_api" ],
+        "sources": [ "https://github.com/python273/vk_api" ]
     }
 ]

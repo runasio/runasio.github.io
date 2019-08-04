@@ -3,18 +3,18 @@
         "name": "Mastodon.py",
         "official": false,
         "language": "python",
-        "sources": [ "https://github.com/halcy/Mastodon.py" ],
+        "sources": [ "https://github.com/halcy/Mastodon.py" ]
     },
     {
         "name": "mastodon-api",
         "official": true,
         "language": "ruby",
-        "sources": [ "https://github.com/tootsuite/mastodon-api" ],
+        "sources": [ "https://github.com/tootsuite/mastodon-api" ]
     },
     {
         "name": "madon",
         "official": false,
         "language": "go",
-        "sources": [ "https://github.com/McKael/madon" ],
+        "sources": [ "https://github.com/McKael/madon" ]
     }
 ]
