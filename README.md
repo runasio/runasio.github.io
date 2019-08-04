@@ -54,3 +54,11 @@ format later.
 
 A list of reviewed papers on our subject. Like libraries, it is mainly
 a flexible database in JSON format.
+
+## Usage
+
+This open research was made to help all people who want to easily find
+information about social-network automation. We want to give the
+opportunity to create automatic content to anybody.
+
+## Licence
